@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Utto</string>
+    <string name="nav_alarm">Alarm</string>
+    <string name="nav_schedule">Solar</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Alarm & Solar labels -->
+    <string name="alarm_active_label">Alarm Active</string>
+    <string name="alarm_off_label">Alarm Paused</string>
+    <string name="sunrise_label">Sunrise</string>
+    <string name="sunset_label">Sunset</string>
+    <string name="civil_dawn_label">First Light</string>
+    <string name="daylight_label">Daylight</string>
+    <string name="solar_noon_label">Solar Noon</string>
+    <string name="mode_sunrise_relative">Before Sunrise</string>
+    <string name="mode_manual_time">Manual Time</string>
+    <string name="repeat_days_title">Repeat Days</string>
+    <string name="one_time_alarm">One-time alarm</string>
+    <string name="every_day">Every day</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="weekends">Weekends</string>
+
+    <!-- Ringing screen -->
+    <string name="ringing_snooze_button">Snooze %1$d min</string>
+    <string name="ringing_swipe_dismiss">Swipe up to dismiss</string>
+    <string name="ringing_dismiss_fallback">Dismiss Alarm</string>
+    <string name="ringing_test_badge">Test Alarm Preview</string>
+    <string name="ringing_snoozed_badge">Snoozed Wake-Up</string>
+
+    <!-- Settings & Health Check -->
+    <string name="settings_sound_section">Ringtone</string>
+    <string name="settings_snooze_section">Snooze Duration</string>
+    <string name="settings_health_section">System &amp; Reliability</string>
+    <string name="settings_pick_custom_audio">Choose Custom Ringtone</string>
+    <string name="settings_gradual_fade">5-second fade-in</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="settings_volume">Alarm Volume</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_action_needed">Fix</string>
+    <string name="status_granted">Granted</string>
+    <string name="status_unrestricted">Unrestricted</string>
+    <string name="status_optimized">Optimized</string>
+
+    <!-- Notifications -->
+    <string name="alarm_channel_name">Utto Sunrise Alarms</string>
+    <string name="alarm_channel_description">Full-screen wake-up alarms and audio playback</string>
+    <string name="alarm_notif_title">Utto Sunrise Alarm</string>
+    <string name="alarm_notif_dismiss">Dismiss</string>
+    <string name="alarm_notif_snooze">Snooze</string>
+
+    <!-- Home Screen Widget -->
+    <string name="widget_solar_label">Solar Summary</string>
+    <string name="widget_solar_description">Live date, time, sunrise, solar noon, sunset, and day/night duration.</string>
+    <string name="widget_location_fallback">Default location</string>
+    <string name="widget_time_placeholder">--:--</string>
+    <string name="widget_duration_placeholder">Day: -- · Night: --</string>
+    <string name="widget_polar_day">24h Sun</string>
+    <string name="widget_polar_night">No Sun</string>
+</resources>

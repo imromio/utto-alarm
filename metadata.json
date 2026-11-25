@@ -1,0 +1,6 @@
+{
+  "name": "Utto",
+  "description": "Offline-first astronomical sunrise alarm clock with NOAA solar calculations, exact scheduling, and gentle wake-up audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
